@@ -3,9 +3,9 @@
 A simple project that adds sunglasses to a face image using alpha masking in OpenCV.
 
 ## Overview
-Takes a face image
-Places sunglasses on the eye region
-Uses transparency (alpha channel) for smooth blending
+1. Takes a face image
+2. Places sunglasses on the eye region
+3. Uses transparency (alpha channel) for smooth blending
 ## Tools Used
   1. Python
   2. OpenCV
