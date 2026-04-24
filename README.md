@@ -26,3 +26,6 @@ Uses transparency (alpha channel) for smooth blending
   
   <img width="1331" height="745" alt="image" src="https://github.com/user-attachments/assets/fb53d056-cebf-4177-83c3-dfb0ba9c7b69" />
 
+## Acknowledgement
+
+This project is inspired by basic computer vision and AR filter techniques used in modern applications like Snapchat and Instagram.
